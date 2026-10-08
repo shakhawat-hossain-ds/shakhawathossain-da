@@ -2,8 +2,7 @@
 
 ### Data Analytics | Python | SQL | Excel
 
-I work with data to uncover meaningful insights and support
-data-driven decision-making.
+I work with data to uncover meaningful insights and support data-driven decision-making.
 
 ### Currently Working With
 
@@ -16,9 +15,8 @@ data-driven decision-making.
 
 ### Current Focus
 
-Building practical data-analysis projects and developing
-strong foundations for Data Science.
+Building practical data-analysis projects and strengthening my foundation in Data Science.
 
 ### Tools
 
-Excel • SQL • Python • Git • GitHub • Jupyter Notebook
+Excel • SQL • Python • Pandas • Git • GitHub • Jupyter Notebook
